@@ -18,7 +18,10 @@ const Footer = () => {
             near you.
           </p>
           <p className="font-semibold text-gray text-xs">
-            Or call 000800-040-1966
+            Or call ***************
+          </p>
+          <p className="font-semibold text-gray text-xs">
+           Created by Diyara Rashid
           </p>
         </div>
 
